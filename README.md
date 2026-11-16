@@ -1,0 +1,1 @@
+Climate Weather Surface of Brazil - Hourly on Kaggle: A widely used community dataset available on the Kaggle Dataset Page, containing historical hourly surface weather variables across various Brazilian stations.
